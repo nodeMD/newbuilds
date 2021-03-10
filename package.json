@@ -1,0 +1,16 @@
+{
+  "name": "newbuilds_tests",
+  "version": "1.0.0",
+  "description": "Example E2E tests written with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:o": "cypress open"
+  },
+  "keywords": [],
+  "author": "Maciej Dynieski",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "6.6.0"
+  }
+}
